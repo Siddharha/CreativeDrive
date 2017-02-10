@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:viewportWidth="550"
+    android:viewportHeight="550"
+    android:width="50dp"
+    android:height="50dp">
+    <group android:name="drive">
+        <path android:pathData="M538.051,339.15L362.1,33.15H188.7l0,0l175.951,306H538.051z M216.75,364.65l-86.7,153H464.1l86.701-153H216.75z
+			 M165.75,71.4L0,364.65l86.7,153L255,224.4L165.75,71.4z" android:fillColor="#FF000000" />
+    </group>
+</vector>
